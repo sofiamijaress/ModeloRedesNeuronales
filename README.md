@@ -24,7 +24,7 @@ Archivos incluidos:
 
 * [Reporte en formato html (Google COLAB)](P_P3_645700.html)
 
-* [Reporte en formato ipynb (Jupyter Notebooks)]()
+* [Reporte en formato ipynb (Jupyter Notebooks)](P.P3_645700.ipynb)
 
-* [Reporte en formato html (Jupyter Notebooks)]()
+* [Reporte en formato html (Jupyter Notebooks)](P.P3_645700.html)
   
